@@ -25,7 +25,7 @@ DEFAULT_LANG = 'ja'
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "shivu.mahamani@gmail.com"
+ADMIN_ACCOUNT = "wo.08327@works-83443"
 DOMAIN_ID = 10175504
 
 # api
