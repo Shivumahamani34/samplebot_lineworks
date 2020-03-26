@@ -33,7 +33,7 @@ API_ID = "jp1hipIEBeDUo"
 SERVER_CONSUMER_KEY = "uLKJLanbaiLODRd8M0s1"
 
 SERVER_ID = "24e72399c0214acb9eac5fc6d357f52b"
-SECRET_KEY_NAME = "private_20200326162837.key"
+SECRET_KEY_NAME = "private_20200326171020.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
